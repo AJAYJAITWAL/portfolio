@@ -1181,3 +1181,19 @@ strong {
   }
 }
 
+@media screen and (max-width: 441px) {
+  .hero-text h2 {
+    font-size: 32px;
+  }
+
+  .clients-image {
+    max-width: 120px;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .email-span {
+    display: inline-block;
+    width: 50%;
+  }
+}
